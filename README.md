@@ -4,6 +4,11 @@ cd devops
 
 git init
 
+git config --global user.name "NidhiMonde27"
+
+git config --global user.email "nidhimonde27@gmail.com"
+
+
 git clone ...copy URL
 
 git add. (no output)
@@ -17,10 +22,6 @@ Git push origin main NidhiMonde27  Nidhi@2005#
 git status
 
 git pulll NidhiMonde27  Nidhi@2005#
-
-git config --global user.name "NidhiMonde27"
-
-git config --global user.email "nidhimonde27@gmail.com"
 
 git log
 
