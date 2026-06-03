@@ -11,7 +11,7 @@ git config --global user.email "nidhimonde27@gmail.com"
 
 git clone ...copy URL
 
-git add. (no output)
+git add. ( no output)
 
 git commit -m "Added 404-error.html" (first commit)
 
